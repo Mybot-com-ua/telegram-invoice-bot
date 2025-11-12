@@ -1,0 +1,13 @@
+# created by virtualenv automatically
+# Скрываем чувствительные данные
+.env
+
+# Скрываем сгенерированные файлы и папки
+docs/
+*.xlsx
+*.pdf
+
+# Скрываем файлы Python/PyCharm
+__pycache__/
+.idea/
+venv/

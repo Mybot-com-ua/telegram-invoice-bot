@@ -1,0 +1,6 @@
+# requirements.txt file
+
+aiogram>=3.0.0
+openpyxl
+num2words
+python-dotenv
